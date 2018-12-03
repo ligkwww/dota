@@ -11,6 +11,6 @@ use App\Http\Controllers\Controller;
 
 class HeroController extends Controller{
     public function createHero(){
-        
+
     }
 }
